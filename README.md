@@ -192,23 +192,3 @@
 89. **Edge Computing**: Develop IoT edge gateway with local processing and cloud connectivity.
 
 90. **System Integration**: Design complete embedded system integrating FPGA, MCU, and analog circuits for specific application (e.g., software-defined radio, industrial controller, medical device).
-
-## Evaluation Criteria for Monthly Tests
-
-### Month 1 Test: Problems 1-30 (Electronics/PCB)
-- Circuit analysis and design fundamentals
-- Component selection and calculations
-- Basic PCB layout principles
-- Simulation and verification skills
-
-### Month 2 Test: Problems 31-60 (FPGA)
-- HDL coding proficiency
-- Digital design concepts
-- Timing analysis and constraints
-- Verification and testing methodologies
-
-### Month 3 Test: Problems 61-90 (Microcontroller/Embedded)
-- Embedded programming skills
-- Real-time system design
-- Hardware-software integration
-- System optimization and debugging
